@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import VideoList from './VideoList';
 
-const API = 'AIzaSyB7Hnmb9jtzIhofyPEpCrXG0h44c3qazUw'
+const API = 'AIzaSyBfGh8-7YbCHxoeEONd6l6iiwgV_ba9Rug'
 const channelID = 'UCXgGY0wkgOzynnHvSEVmE3A'
 const result = 20;
 
