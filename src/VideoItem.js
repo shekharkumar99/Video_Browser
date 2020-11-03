@@ -1,5 +1,5 @@
 import React from 'react';
-import './video.css';
+import './Style/video.css';
 import Moment from 'react-moment';
 import moment from 'moment';
 
